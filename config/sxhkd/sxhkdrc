@@ -1,0 +1,19 @@
+# start termianl
+super + t
+	kitty
+
+# close window	
+super + q
+	bspc node -c
+
+# restart bspwm
+super + r
+	bspc wm -r
+
+# browser
+super + w
+	zen-browser
+
+# dolphin
+super + e
+	dolphin
