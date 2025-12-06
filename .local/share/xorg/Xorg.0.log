@@ -1457,3 +1457,43 @@ X Protocol Version 11, Revision 0
 [   508.399] (**) Option "xkb_layout" "us"
 [   508.400] (II) event18 - RDMCTMZT Wireless 2.4G Dongle System Control: is tagged by udev as: Keyboard Joystick
 [   508.400] (II) event18 - RDMCTMZT Wireless 2.4G Dongle System Control: device is a keyboard
+[  3700.520] (II) modeset(0): EDID vendor "CSO", prod id 5638
+[  3700.520] (II) modeset(0): Using hsync ranges from config file
+[  3700.520] (II) modeset(0): Using vrefresh ranges from config file
+[  3700.520] (II) modeset(0): Printing DDC gathered Modelines:
+[  3700.520] (II) modeset(0): Modeline "2560x1600"x0.0  282.70  2560 2608 2640 2720  1600 1603 1609 1732 -hsync -vsync (103.9 kHz eP)
+[  3700.534] (II) modeset(0): EDID vendor "CSO", prod id 5638
+[  3700.534] (II) modeset(0): Using hsync ranges from config file
+[  3700.534] (II) modeset(0): Using vrefresh ranges from config file
+[  3700.534] (II) modeset(0): Printing DDC gathered Modelines:
+[  3700.534] (II) modeset(0): Modeline "2560x1600"x0.0  282.70  2560 2608 2640 2720  1600 1603 1609 1732 -hsync -vsync (103.9 kHz eP)
+[  3723.936] (II) modeset(0): EDID vendor "CSO", prod id 5638
+[  3723.936] (II) modeset(0): Using hsync ranges from config file
+[  3723.936] (II) modeset(0): Using vrefresh ranges from config file
+[  3723.936] (II) modeset(0): Printing DDC gathered Modelines:
+[  3723.936] (II) modeset(0): Modeline "2560x1600"x0.0  282.70  2560 2608 2640 2720  1600 1603 1609 1732 -hsync -vsync (103.9 kHz eP)
+[  3723.950] (II) modeset(0): EDID vendor "CSO", prod id 5638
+[  3723.950] (II) modeset(0): Using hsync ranges from config file
+[  3723.950] (II) modeset(0): Using vrefresh ranges from config file
+[  3723.950] (II) modeset(0): Printing DDC gathered Modelines:
+[  3723.950] (II) modeset(0): Modeline "2560x1600"x0.0  282.70  2560 2608 2640 2720  1600 1603 1609 1732 -hsync -vsync (103.9 kHz eP)
+[  3796.639] (II) modeset(0): EDID vendor "CSO", prod id 5638
+[  3796.639] (II) modeset(0): Using hsync ranges from config file
+[  3796.639] (II) modeset(0): Using vrefresh ranges from config file
+[  3796.639] (II) modeset(0): Printing DDC gathered Modelines:
+[  3796.639] (II) modeset(0): Modeline "2560x1600"x0.0  282.70  2560 2608 2640 2720  1600 1603 1609 1732 -hsync -vsync (103.9 kHz eP)
+[  3796.653] (II) modeset(0): EDID vendor "CSO", prod id 5638
+[  3796.653] (II) modeset(0): Using hsync ranges from config file
+[  3796.653] (II) modeset(0): Using vrefresh ranges from config file
+[  3796.653] (II) modeset(0): Printing DDC gathered Modelines:
+[  3796.653] (II) modeset(0): Modeline "2560x1600"x0.0  282.70  2560 2608 2640 2720  1600 1603 1609 1732 -hsync -vsync (103.9 kHz eP)
+[  3806.627] (II) modeset(0): EDID vendor "CSO", prod id 5638
+[  3806.627] (II) modeset(0): Using hsync ranges from config file
+[  3806.627] (II) modeset(0): Using vrefresh ranges from config file
+[  3806.627] (II) modeset(0): Printing DDC gathered Modelines:
+[  3806.627] (II) modeset(0): Modeline "2560x1600"x0.0  282.70  2560 2608 2640 2720  1600 1603 1609 1732 -hsync -vsync (103.9 kHz eP)
+[  3806.641] (II) modeset(0): EDID vendor "CSO", prod id 5638
+[  3806.641] (II) modeset(0): Using hsync ranges from config file
+[  3806.641] (II) modeset(0): Using vrefresh ranges from config file
+[  3806.641] (II) modeset(0): Printing DDC gathered Modelines:
+[  3806.641] (II) modeset(0): Modeline "2560x1600"x0.0  282.70  2560 2608 2640 2720  1600 1603 1609 1732 -hsync -vsync (103.9 kHz eP)

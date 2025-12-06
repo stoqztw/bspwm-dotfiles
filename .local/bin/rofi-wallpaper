@@ -9,4 +9,4 @@ SELECTED="$(ls "$WALLDIR" | rofi -dmenu -i -p "Wallpaper")"
 [ -z "$SELECTED" ] && exit
 
 # use wallpaper
-feh --bg-fill #$WALLDIR/$SELECTED"
+feh --bg-fill "$WALLDIR/$SELECTED"

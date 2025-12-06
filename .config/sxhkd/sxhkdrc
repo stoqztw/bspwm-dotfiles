@@ -2,6 +2,10 @@
 # wm independent hotkeys
 #
 
+# for rofi wallpapers (test)
+ctrl + alt + t
+	~/.local/bin/rofi-wallpaper
+
 # terminal emulator
 super + t
 	kitty
