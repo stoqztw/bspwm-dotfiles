@@ -1,8 +1,0 @@
-#!/bin/sh
-
-sxhkd &
-polybar &
-
-xsetroot -cursor_name left_ptr
-
-~/.config/polybar/launch.sh &

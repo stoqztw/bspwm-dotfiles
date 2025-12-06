@@ -1,0 +1,12 @@
+#!/bin/bash
+
+WALLDIR="$HOME/Wallpaper"
+
+# sel wallpaper from rofi
+SELECTED="$(ls "$WALLDIR" | rofi -dmenu -i -p "Wallpaper")"
+
+# if no one sel
+[ -z "$SELECTED" ] && exit
+
+# use wallpaper
+feh --bg-fill #$WALLDIR/$SELECTED"
