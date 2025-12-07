@@ -1,0 +1,72 @@
+[INFO  Вс 07 дек 2025 17:50:59] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=stylua) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Вс 07 дек 2025 17:50:59] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=shfmt) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Вс 07 дек 2025 17:51:00] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=stylua)
+[INFO  Вс 07 дек 2025 17:51:00] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=shfmt)
+[INFO  Вс 07 дек 2025 17:53:05] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=lua-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Вс 07 дек 2025 17:53:06] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=lua-language-server)
+[INFO  Вс 07 дек 2025 19:21:22] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=markdownlint-cli2) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Вс 07 дек 2025 19:21:22] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=markdown-toc) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Вс 07 дек 2025 19:21:22] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=json-lsp) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Вс 07 дек 2025 19:21:22] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tailwindcss-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Вс 07 дек 2025 19:21:22] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=marksman) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Вс 07 дек 2025 19:21:22] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=ruff) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Вс 07 дек 2025 19:21:22] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Вс 07 дек 2025 19:21:22] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=vtsls) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Вс 07 дек 2025 19:21:22] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=prisma-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Вс 07 дек 2025 19:21:24] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=tailwindcss-language-server)
+[INFO  Вс 07 дек 2025 19:21:25] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=marksman)
+[INFO  Вс 07 дек 2025 19:21:25] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=json-lsp)
+[INFO  Вс 07 дек 2025 19:21:25] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=markdownlint-cli2)
+[INFO  Вс 07 дек 2025 19:21:27] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=markdown-toc)
+[INFO  Вс 07 дек 2025 19:21:27] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=vtsls)
+[INFO  Вс 07 дек 2025 19:21:28] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=pyright)
+[INFO  Вс 07 дек 2025 19:21:29] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=ruff)
+[INFO  Вс 07 дек 2025 19:21:31] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=prisma-language-server)

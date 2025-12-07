@@ -1,0 +1,118 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "ac8dc6570352e901ec9e40182bbcf2c7c3d846ca4fab43824f574b0d8360328c",
+    "telemetry.devDeviceId": "436ed526-da26-49a5-a2e0-9f62aac4f0b2",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1765030498317"
+            },
+            {
+                "backupFolder": "1765059988914"
+            },
+            {
+                "backupFolder": "1765059991206"
+            },
+            {
+                "backupFolder": "1765059993556"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {},
+        "emptyWindows": {
+            "1765030383294": "__default__profile__",
+            "1765030498317": "__default__profile__",
+            "1765059988914": "__default__profile__",
+            "1765059991206": "__default__profile__",
+            "1765059993556": "__default__profile__"
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/stoqz/.config/Code/Backups/1765059993556",
+            "uiState": {
+                "mode": 1,
+                "x": 1972,
+                "y": 1244,
+                "width": 574,
+                "height": 342
+            }
+        },
+        "openedWindows": [
+            {
+                "backupPath": "/home/stoqz/.config/Code/Backups/1765030498317",
+                "uiState": {
+                    "mode": 1,
+                    "x": 1336,
+                    "y": 57,
+                    "width": 1210,
+                    "height": 788
+                }
+            },
+            {
+                "backupPath": "/home/stoqz/.config/Code/Backups/1765059988914",
+                "uiState": {
+                    "mode": 1,
+                    "x": 1336,
+                    "y": 859,
+                    "width": 622,
+                    "height": 727
+                }
+            },
+            {
+                "backupPath": "/home/stoqz/.config/Code/Backups/1765059991206",
+                "uiState": {
+                    "mode": 1,
+                    "x": 1972,
+                    "y": 859,
+                    "width": 574,
+                    "height": 371
+                }
+            },
+            {
+                "backupPath": "/home/stoqz/.config/Code/Backups/1765059993556",
+                "uiState": {
+                    "mode": 1,
+                    "x": 1972,
+                    "y": 1244,
+                    "width": 574,
+                    "height": 342
+                }
+            }
+        ]
+    }
+}

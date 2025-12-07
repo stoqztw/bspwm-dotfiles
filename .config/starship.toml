@@ -66,7 +66,7 @@ symbol = " "
 style = "bold dimmed green"
 
 [time]
-disabled = true
+disabled = false
 format = '🕙[\[ $time \]]($style) '
 time_format = "%T"
 

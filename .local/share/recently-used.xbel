@@ -86,13 +86,14 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/stoqz/Wallpaper/wallhaven-3z2med.jpg" added="2025-12-06T10:49:47.512705Z" modified="2025-12-06T10:49:47.762781Z" visited="2025-12-06T10:49:47.512707Z">
+  <bookmark href="file:///home/stoqz/Wallpaper/wallhaven-3z2med.jpg" added="2025-12-06T10:49:47.512705Z" modified="2025-12-07T19:52:26.385561Z" visited="2025-12-06T10:49:47.512707Z">
     <info>
       <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
+        <mime:mime-type type="image/jpeg"/>
         <bookmark:applications>
           <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-12-06T10:49:47.512709Z" count="1"/>
           <bookmark:application name="snap.telegram-desktop" exec="&apos;gio open %u&apos;" modified="2025-12-06T10:49:47.762780Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-12-07T19:52:26.385554Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -130,13 +131,14 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/stoqz/Wallpaper/wladislaw-sokolowskij-0vw4InAC-yM-unsplash.jpg" added="2025-12-06T10:50:14.302967Z" modified="2025-12-06T10:50:14.553119Z" visited="2025-12-06T10:50:14.302968Z">
+  <bookmark href="file:///home/stoqz/Wallpaper/wladislaw-sokolowskij-0vw4InAC-yM-unsplash.jpg" added="2025-12-06T10:50:14.302967Z" modified="2025-12-07T19:52:34.185706Z" visited="2025-12-06T10:50:14.302968Z">
     <info>
       <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
+        <mime:mime-type type="image/jpeg"/>
         <bookmark:applications>
           <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-12-06T10:50:14.302970Z" count="1"/>
           <bookmark:application name="snap.telegram-desktop" exec="&apos;gio open %u&apos;" modified="2025-12-06T10:50:14.553113Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-12-07T19:52:34.185703Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -181,6 +183,244 @@
         <bookmark:applications>
           <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-12-06T10:50:41.518522Z" count="1"/>
           <bookmark:application name="snap.telegram-desktop" exec="&apos;gio open %u&apos;" modified="2025-12-06T10:50:41.768665Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stoqz/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/JetBrainsMono.zip" added="2025-12-06T19:56:30.731656Z" modified="2025-12-06T19:56:30.731661Z" visited="2025-12-06T19:56:30.731657Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-12-06T19:56:30.731659Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stoqz/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/JetBrainsMono/JetBrainsMono/JetBrainsMonoNerdFont-Bold.ttf" added="2025-12-06T20:20:40.151723Z" modified="2025-12-06T20:20:40.151729Z" visited="2025-12-06T20:20:40.151724Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2025-12-06T20:20:40.151724Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stoqz/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/MesloLGS%20NF%20Regular.ttf" added="2025-12-07T10:23:07.809207Z" modified="2025-12-07T10:23:07.809212Z" visited="2025-12-07T10:23:07.809207Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-12-07T10:23:07.809209Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stoqz/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/Meslo.zip" added="2025-12-07T10:25:58.027142Z" modified="2025-12-07T10:25:58.027146Z" visited="2025-12-07T10:25:58.027142Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-12-07T10:25:58.027144Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stoqz/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/birmingham-museums-trust-wKlHsooRVbg-unsplash.jpg" added="2025-12-07T10:31:16.205055Z" modified="2025-12-07T10:31:16.205061Z" visited="2025-12-07T10:31:16.205056Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-12-07T10:31:16.205058Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stoqz/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/brooklyn-MO5qO9xpZhA-unsplash.jpg" added="2025-12-07T10:31:20.920377Z" modified="2025-12-07T10:31:20.920384Z" visited="2025-12-07T10:31:20.920378Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-12-07T10:31:20.920382Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stoqz/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/british-library-gUDNK8NqYHk-unsplash.jpg" added="2025-12-07T10:31:22.358085Z" modified="2025-12-07T10:31:22.358092Z" visited="2025-12-07T10:31:22.358086Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-12-07T10:31:22.358088Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stoqz/Wallpaper/Raphael_School_of_Athens.jpg" added="2025-12-07T10:38:57.168498Z" modified="2025-12-07T10:38:57.467270Z" visited="2025-12-07T10:38:57.168499Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-12-07T10:38:57.467265Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stoqz/Wallpaper/photo_2025-12-07_22-07-20.jpg" added="2025-12-07T19:07:24.756745Z" modified="2025-12-07T19:07:25.007214Z" visited="2025-12-07T19:07:24.756745Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-12-07T19:07:24.756746Z" count="1"/>
+          <bookmark:application name="snap.telegram-desktop" exec="&apos;gio open %u&apos;" modified="2025-12-07T19:07:25.007209Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stoqz/Wallpaper/photo_2025-12-07_22-07-47.jpg" added="2025-12-07T19:07:49.065000Z" modified="2025-12-07T19:07:49.315067Z" visited="2025-12-07T19:07:49.065000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-12-07T19:07:49.065001Z" count="1"/>
+          <bookmark:application name="snap.telegram-desktop" exec="&apos;gio open %u&apos;" modified="2025-12-07T19:07:49.315065Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stoqz/Wallpaper/photo_2025-12-07_22-07-52.jpg" added="2025-12-07T19:07:52.964715Z" modified="2025-12-07T19:07:53.214818Z" visited="2025-12-07T19:07:52.964715Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-12-07T19:07:52.964716Z" count="1"/>
+          <bookmark:application name="snap.telegram-desktop" exec="&apos;gio open %u&apos;" modified="2025-12-07T19:07:53.214816Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stoqz/Wallpaper/photo_2025-12-07_22-07-56.jpg" added="2025-12-07T19:07:57.407079Z" modified="2025-12-07T19:07:57.657206Z" visited="2025-12-07T19:07:57.407080Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-12-07T19:07:57.407081Z" count="1"/>
+          <bookmark:application name="snap.telegram-desktop" exec="&apos;gio open %u&apos;" modified="2025-12-07T19:07:57.657205Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stoqz/Wallpaper/photo_2025-12-07_22-08-00.jpg" added="2025-12-07T19:08:01.634928Z" modified="2025-12-07T19:08:01.885133Z" visited="2025-12-07T19:08:01.634929Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-12-07T19:08:01.634930Z" count="1"/>
+          <bookmark:application name="snap.telegram-desktop" exec="&apos;gio open %u&apos;" modified="2025-12-07T19:08:01.885130Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stoqz/Wallpaper/photo_2025-12-07_22-08-04.jpg" added="2025-12-07T19:08:05.291800Z" modified="2025-12-07T19:08:05.541904Z" visited="2025-12-07T19:08:05.291801Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-12-07T19:08:05.291802Z" count="1"/>
+          <bookmark:application name="snap.telegram-desktop" exec="&apos;gio open %u&apos;" modified="2025-12-07T19:08:05.541902Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stoqz/Wallpaper/photo_2025-12-07_22-08-07.jpg" added="2025-12-07T19:08:07.843942Z" modified="2025-12-07T19:08:08.094045Z" visited="2025-12-07T19:08:07.843943Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-12-07T19:08:07.843944Z" count="1"/>
+          <bookmark:application name="snap.telegram-desktop" exec="&apos;gio open %u&apos;" modified="2025-12-07T19:08:08.094043Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stoqz/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/01.png" added="2025-12-07T19:50:10.340066Z" modified="2025-12-07T19:50:10.340070Z" visited="2025-12-07T19:50:10.340067Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-12-07T19:50:10.340068Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stoqz/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/02.jpg" added="2025-12-07T19:50:15.555549Z" modified="2025-12-07T19:50:15.555554Z" visited="2025-12-07T19:50:15.555550Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-12-07T19:50:15.555551Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stoqz/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/03.jpg" added="2025-12-07T19:50:20.121844Z" modified="2025-12-07T19:50:20.121848Z" visited="2025-12-07T19:50:20.121844Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-12-07T19:50:20.121846Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stoqz/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/04.png" added="2025-12-07T19:50:28.517517Z" modified="2025-12-07T19:50:28.517523Z" visited="2025-12-07T19:50:28.517518Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-12-07T19:50:28.517520Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stoqz/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/05.png" added="2025-12-07T19:50:32.705877Z" modified="2025-12-07T19:50:32.705884Z" visited="2025-12-07T19:50:32.705878Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-12-07T19:50:32.705880Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stoqz/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/06.png" added="2025-12-07T19:50:38.611838Z" modified="2025-12-07T19:50:38.611844Z" visited="2025-12-07T19:50:38.611840Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-12-07T19:50:38.611841Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stoqz/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/07.png" added="2025-12-07T19:50:43.227907Z" modified="2025-12-07T19:50:43.227912Z" visited="2025-12-07T19:50:43.227908Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-12-07T19:50:43.227909Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/stoqz/Wallpaper/photo_2025-12-07_22-52-03.jpg" added="2025-12-07T19:52:04.618886Z" modified="2025-12-07T19:52:04.869125Z" visited="2025-12-07T19:52:04.618887Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-12-07T19:52:04.618890Z" count="1"/>
+          <bookmark:application name="snap.telegram-desktop" exec="&apos;gio open %u&apos;" modified="2025-12-07T19:52:04.869119Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

@@ -3,10 +3,53 @@
 WALLDIR="$HOME/Wallpaper"
 
 # sel wallpaper from rofi
-SELECTED="$(ls "$WALLDIR" | rofi -dmenu -i -p "Wallpaper")"
+#SELECTED="$(ls "$WALLDIR" | rofi -dmenu -i -p "Wallpaper" -theme ~/.config/rofi/mytheme.raci)"
+cache="$HOME/.cache/thumbnails/bgselector/"
+
+mkdir -p "$cache"
+
+# OLD VERSION
+#
+#SELECTED=$(
+#  for img in "$WALLDIR"/*.{png,jpg,jpeg}; do
+#    [[ -f "$img" ]] || continue
+#    thumb="$cache/$(basename "$img")"
+
+#    if [[ ! -f "$thumb" ]]; then
+#      convert "$img" -resize 260x540^ -gravity center -extent 260x540 "$thumb"
+#    fi
+
+#    printf "%s\x00icon\x1f%s\n" "$(basename "$img")" "$thumb"
+#  done |
+#    rofi -dmenu -show-icons \
+#-theme ~/.config/rofi/test.rasi
+#-theme-str 'element-icon {size: 500px;}' \
+#-theme-str 'element {padding: 8px;}' \
+#-p "  Wallpaper: "
+#)
+
+SELECTED=$(
+  for img in "$WALLDIR"/*.{png,jpg,jpeg}; do
+    [[ -f "$img" ]] || continue
+    thumb="$cache/$(basename "$img")"
+    [[ -f "$thumb" ]] || convert "$img" -resize 700x700^ -gravity center -extent 700x700 "$thumb"
+    printf "%s\x00icon\x1f%s\n" "$(basename "$img")" "$thumb"
+  done |
+    rofi -dmenu -show-icons -theme ~/.config/rofi/wallpapertheme.rasi
+)
 
 # if no one sel
 [ -z "$SELECTED" ] && exit
 
 # use wallpaper
+#feh --bg-fill "$WALLDIR/$SELECTED"
 feh --bg-fill "$WALLDIR/$SELECTED"
+
+# create colors from wallapaper
+#wal --saturate 0.6 -i "$WALLDIR/$SELECTED"
+wal --saturate 0.6 -i "$WALLDIR/$SELECTED"
+
+pkill polybar
+polybar &
+
+bspc wm -r
