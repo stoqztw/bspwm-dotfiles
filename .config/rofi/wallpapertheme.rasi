@@ -1,0 +1,61 @@
+@theme "~/.cache/wal/colors-rofi-dark.rasi"
+
+configuration {
+    show-icons: true;
+    show-textbox: false;
+    slidebar-mode: false;
+}
+
+// Global
+* {
+    background-color: transparent;
+    margin: 0;
+    padding: 0;
+    spacing: 0;
+}
+
+// Window
+window {
+    background-color: rgba(0,0,0,0.9);
+    fullscreen: true;
+}
+
+inputbar {
+    enabled: false;
+}
+
+textbox {
+    enabled: false;
+}
+
+// Main Box
+mainbox {
+    children: [listview];
+    padding: 25% 30px;
+}
+
+entry {
+    enabled: false;
+}
+
+// Listview
+listview {
+    border: 0;
+    padding: 12px 12px;
+    spacing: 10px;
+    columns: 8;
+    flow: horizontal;
+    children: [element-icon];
+}
+element {
+    border-radius: 16px;
+}
+element.selected {
+    border: 4px;
+    border-color: @active-background;
+}
+element-icon {
+    size: 700px;
+    vertical-align: 0;
+    horizontal-align: 0;
+}
